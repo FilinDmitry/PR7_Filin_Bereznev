@@ -1,6 +1,11 @@
 ﻿int result = Fibonacci(5);
 Console.WriteLine(result);
 
+/// <summary>
+/// Функция которая возвращет 
+/// </summary>
+/// <param name="n">Порядковый номер числа в последовательности Фиббоначи</param>
+/// <returns>Число последовательности Фибонначи с номером n</returns>
 static int Fibonacci(int n)
 {
     Console.WriteLine("The output is: ");
